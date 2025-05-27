@@ -89,7 +89,7 @@ The final slides are available here:
 ## 👤 Author
 
 **Sebastian Bangemann**  
-[LinkedIn](https://www.linkedin.com/in/sebastian-bangemann/))  
+[LinkedIn](https://www.linkedin.com/in/sebastian-bangemann/)
 [GitHub](https://github.com/seb-bange)
 
 ---
