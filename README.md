@@ -90,6 +90,6 @@ The final slides are available here:
 
 **Sebastian Bangemann**  
 [LinkedIn](https://www.linkedin.com/in/sebastian-bangemann/))  
-[GitHub](https://github.com/dein-username)
+[GitHub](https://github.com/seb-bange)
 
 ---
