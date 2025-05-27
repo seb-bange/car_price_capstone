@@ -172,3 +172,28 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.Rproj.user
+
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output graphics
+r_visuals/plots/
+*.png
+
+
+# Data files (optional – nur wenn du CSV nicht mit versionieren willst)
+#data/*.csv
+
+# Mac system files
+.DS_Store
+
+# Keynote working files
+*.key
