@@ -59,7 +59,7 @@ Help car manufacturers and dealerships understand what drives vehicle prices and
 ![HP vs MSRP](r_visuals/plots/hp_vs_msrp_log.png)
 
 ### Correlation Matrix  
-![Correlation Matrix](r_visuals/plots/correlation_matrix.png)
+![Correlation Matrix](r_visuals/plots/corr_matrix.png)
 
 ---
 
